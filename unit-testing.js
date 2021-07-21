@@ -10,4 +10,10 @@ const stringLength = function(string){
 }
 
 // module.exports = sum;
-module.exports = stringLength;
+// module.exports = stringLength;
+
+const reverseString = function(string){
+  return string.split("").reverse().join("");
+}
+
+module.exports = reverseString;
