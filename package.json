@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice-with-jest",
+  "version": "1.0.0",
+  "description": "The is to carryout TDD practice with jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihndim2020/Testing-practice-with-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihndim2020/Testing-practice-with-jest/issues"
+  },
+  "homepage": "https://github.com/Mihndim2020/Testing-practice-with-jest#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
